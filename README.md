@@ -30,7 +30,7 @@ A RESTful API for managing loans and staff members with JWT authentication and r
 
 2. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/loan-management-system.git
+   git clone https://github.com/nasir-001/loan-backend
    cd loan-management-system
 
 3. **Install the project**
